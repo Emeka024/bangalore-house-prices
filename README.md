@@ -38,7 +38,6 @@ This project analyzes property price data from Bangalore, India (`bhp.csv`) with
 - Python 3
 - Pandas
 - NumPy
-- Matplotlib / SciPy (for bell curve plotting)
 - Google Colab
 
 ---
