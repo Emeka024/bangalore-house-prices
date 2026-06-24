@@ -22,8 +22,6 @@ This project analyzes property price data from Bangalore, India (`bhp.csv`) with
 
 3. **Z-score filtering (threshold = 4)** — Apply Z-score method to the percentile-filtered data as an alternative approach. Produces the same result as step 2, confirming consistency between the two methods.
 
-4. **Visualization** — Plot a histogram of the cleaned data with an overlaid bell curve to verify the distribution is approximately normal after outlier removal.
-
 ---
 
 ## Key Concepts
